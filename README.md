@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rizaw-ed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning pyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Reza
+- 👀 I'm a law student with a passion for programming,chemistry and electronics
+- 🌱 I’m currently learning pyton & Django
+- 📫 reza.ettehad003@gmail.com
 
 <!---
 rizaw-ed/rizaw-ed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

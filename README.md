@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reza
 - 👀 I'm a law student with a passion for programming,chemistry and electronics
-- 🌱 I’m currently learning pyton & Django
+- 🌱 I’m currently learning python & Django
 - 📫 reza.ettehad003@gmail.com
 
 <!---
